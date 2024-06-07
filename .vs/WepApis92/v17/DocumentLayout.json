@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\WepApis92\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F238CA3A-68D3-48E7-AF55-A94CB59F5EB1}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238CA3A-68D3-48E7-AF55-A94CB59F5EB1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\wepapis92\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|solutionrelative:wepapis92\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\wepapis92\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|solutionrelative:wepapis92\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\wepapis92\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|solutionrelative:wepapis92\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\wepapis92\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7B480-E606-48AC-8834-D871E19A6C48}|WepApis92\\WepApis92.csproj|solutionrelative:wepapis92\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238CA3A-68D3-48E7-AF55-A94CB59F5EB1}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\wepapis92\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238CA3A-68D3-48E7-AF55-A94CB59F5EB1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "WepApis92\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "WepApis92\\Services\\UsuarioServices.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:44:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:32:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\Domain\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\Domain\\Entities\\Autor.cs*",
+              "RelativeToolTip": "Domain\\Entities\\Autor.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:31:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "WepApis92\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "WepApis92\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\IAutorServices.cs",
+              "RelativeDocumentMoniker": "WepApis92\\Services\\IAutorServices.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\IAutorServices.cs",
+              "RelativeToolTip": "WepApis92\\Services\\IAutorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\AutorServices.cs",
+              "RelativeDocumentMoniker": "WepApis92\\Services\\AutorServices.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\WepApis92\\WepApis92\\Services\\AutorServices.cs",
+              "RelativeToolTip": "WepApis92\\Services\\AutorServices.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:12:41.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
